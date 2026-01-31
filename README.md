@@ -29,16 +29,8 @@
 - CSV 檔案存儲
 
 ## ▶ 使用方式
-```bash
-python duty_log.py
+- duty_log_gui
 
-python>=3.10
-
-project/
-├─ main.py
-├─ data/
-├─ README.md
-└─ .gitignore
 
 
 
